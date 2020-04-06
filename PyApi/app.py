@@ -4,12 +4,12 @@ app = Flask(__name__)
 
 books =[
         {
-            'name':'Green Eggs and Ham',
+            'name':'Republic',
             'price':7.99,
             'isbn':978839400165
             },
         {
-            'name':'The Cat In The Hat',
+            'name':'And Then There were none',
             'price':6.99,
             'isbn':9782371000193
             }
